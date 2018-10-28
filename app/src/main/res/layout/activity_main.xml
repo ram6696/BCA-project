@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
    <Button
@@ -14,6 +15,24 @@
        android:background="@color/colorPrimary"
        android:onClick="Layout1"
        android:textColor="@color/white"/>
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="UPLOAD NOTES"
+       android:layout_marginTop="20dp"
+       android:background="@color/colorPrimary"
+       android:onClick="Layout2"
+       android:textColor="@color/white"/>
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="VIEW UPLOADS"
+       android:layout_marginTop="20dp"
+       android:background="@color/colorPrimary"
+       android:onClick="ViewUpload"
+       android:textColor="@color/white"/>
+
 
 
 </LinearLayout>

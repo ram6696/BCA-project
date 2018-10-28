@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858023892001",
+    "firebase_url": "https://bca-project-91f35.firebaseio.com",
+    "project_id": "bca-project-91f35",
+    "storage_bucket": "bca-project-91f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858023892001:android:9b24a7ecc73149e1",
+        "android_client_info": {
+          "package_name": "com.example.nineleaps.study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858023892001-cubs8nin7445jirj0552h145j28dsqes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg19Cv1g_bjqG35tBq-8ye8_NxBR48ZFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -17,4 +17,14 @@ public class MainActivity extends AppCompatActivity {
          Intent intent = new Intent(this,Layout1.class);
          startActivity(intent);
     }
+
+    public void Layout2(View view) {
+        Intent intent = new Intent(this,UploadNotes.class);
+        startActivity(intent);
+    }
+
+    public void ViewUpload(View view) {
+        Intent intent = new Intent(this,ViewUploadsActivity.class);
+        startActivity(intent);
+    }
 }
